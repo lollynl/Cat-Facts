@@ -1,0 +1,3 @@
+<username>
+<password>
+This is a bot to send interesting cat facts to cat lovers
